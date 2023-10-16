@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio.git/static/css/main.1e823ee0.css",
+    "main.js": "/portfolio.git/static/js/main.520e022d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio.git/static/js/787.1ed0c42c.chunk.js",
+    "static/media/M1.jpg": "/portfolio.git/static/media/M1.bd85b5455ff34623871a.jpg",
+    "static/media/color-sharp2.png": "/portfolio.git/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/W2.jpg": "/portfolio.git/static/media/W2.affeb386f1d966394175.jpg",
+    "static/media/banner-bg.png": "/portfolio.git/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/portfolio.git/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/W0.jpg": "/portfolio.git/static/media/W0.fd300b91490e8606de66.jpg",
+    "static/media/M0.jpg": "/portfolio.git/static/media/M0.fac88687e2143317fca3.jpg",
+    "static/media/F2.jpg": "/portfolio.git/static/media/F2.b7d38ae2e4e378295cca.jpg",
+    "static/media/W1.jpg": "/portfolio.git/static/media/W1.a09199c2f7f43640e9df.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/portfolio.git/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/portfolio.git/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/portfolio.git/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/F3.jpg": "/portfolio.git/static/media/F3.8f644cb5d697508ff8a5.jpg",
+    "static/media/M3.jpg": "/portfolio.git/static/media/M3.2b7279d0ebb9d9045051.jpg",
+    "static/media/F1.jpg": "/portfolio.git/static/media/F1.015f4bd2c9e219c3c1d4.jpg",
+    "static/media/B3.jpg": "/portfolio.git/static/media/B3.2b5341d1b877cb388d8e.jpg",
+    "static/media/B1.jpg": "/portfolio.git/static/media/B1.c55e2df5a30767fd2f51.jpg",
+    "static/media/B2.jpg": "/portfolio.git/static/media/B2.dc3786b1831d66eb5c8a.jpg",
+    "static/media/revicons.eot": "/portfolio.git/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/M2.jpg": "/portfolio.git/static/media/M2.57d2378589259d1352d3.jpg",
+    "static/media/revicons.ttf": "/portfolio.git/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolio.git/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/portfolio.git/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/portfolio.git/index.html",
+    "static/media/nav-icon2.svg": "/portfolio.git/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.1e823ee0.css.map": "/portfolio.git/static/css/main.1e823ee0.css.map",
+    "main.520e022d.js.map": "/portfolio.git/static/js/main.520e022d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio.git/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e823ee0.css",
+    "static/js/main.520e022d.js"
+  ]
+}
